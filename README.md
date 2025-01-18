@@ -13,6 +13,7 @@
 ![image](https://github.com/user-attachments/assets/232547fb-148c-4ef1-aef4-915f96800188)
 <br/> 
 ## Assignment 1.2 - Gas Sensor.
-![image](https://github.com/user-attachments/assets/1c9aaf92-cf4c-4883-a2a9-ac435d68e365)
+![image](https://github.com/user-attachments/assets/7bb3e6a7-9ab9-4799-b741-0e9940a61ec2)
+
 
 
