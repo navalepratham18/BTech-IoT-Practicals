@@ -1,0 +1,16 @@
+#define MQ2_ANA A1
+#define MQ2_DIG 2
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(MQ2_ANA, INPUT);
+  pinMode(MQ2_DIG, INPUT);
+}
+
+void loop() {
+  Serial.print("Analog: ");
+  Serial.println(analogRead(MQ2_ANA));
+  Serial.print("Digital: ");
+  Serial.println(digitalRead(MQ2_DIG));
+  delay(1000);
+}
