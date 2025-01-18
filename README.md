@@ -11,4 +11,8 @@
 <br/> 
 ## Practice 00 - Ultra Sonic Sensor.
 ![image](https://github.com/user-attachments/assets/232547fb-148c-4ef1-aef4-915f96800188)
+<br/> 
+## Practice 0.1 - Gas Sensor.
+![image](https://github.com/user-attachments/assets/1c9aaf92-cf4c-4883-a2a9-ac435d68e365)
+
 
