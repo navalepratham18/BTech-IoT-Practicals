@@ -7,4 +7,8 @@
 ![Screenshot from 2025-01-17 12-19-26](https://github.com/user-attachments/assets/60652418-47a2-4f45-a0e5-3adbb7bbc364)<br/> 
 ## Practical 04 - Programming to detect light intensity using LDR sensor using IoT Development Board.
 ![image](https://github.com/user-attachments/assets/568111ce-2fcd-43dd-8ee5-4504d4d28bc7)<br/> 
+<br/> 
+<br/> 
+##Practice 00 - Ultra Sonic Sensor.
+![image](https://github.com/user-attachments/assets/232547fb-148c-4ef1-aef4-915f96800188)
 
