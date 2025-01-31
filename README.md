@@ -1,4 +1,4 @@
-# BTech-IoT-Practicals
+# ⁜ IoT-Practicals
 ## Practical 01 - Interfacing LED’s to IoT Development Board.
 ![01](https://github.com/user-attachments/assets/c66bb94d-8104-4c08-a829-7cf162e78273)<br/> 
 ## Practical 02 - Programming to show the Room Temperature using LM35 Temperature Sensor using IoT Development Board.
@@ -13,7 +13,7 @@
 <br/> 
 <br/> 
 <br/> 
-# Assignments : 
+# ⁜ Assignments : 
 ## Assignment 1.1 - Ultra Sonic Sensor.
 ![image](https://github.com/user-attachments/assets/232547fb-148c-4ef1-aef4-915f96800188)
 <br/> 
