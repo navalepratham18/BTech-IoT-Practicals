@@ -1,4 +1,6 @@
-# <center>◈ IoT-Practicals<center/>
+# <p align="center">
+◈ IoT-Practicals
+</p>
 ## Practical 01 - Interfacing LED’s to IoT Development Board.
 ![01](https://github.com/user-attachments/assets/c66bb94d-8104-4c08-a829-7cf162e78273)<br/> 
 ## Practical 02 - Programming to show the Room Temperature using LM35 Temperature Sensor using IoT Development Board.
