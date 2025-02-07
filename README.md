@@ -4,7 +4,7 @@
 ## Practical 02 - Programming to show the Room Temperature using LM35 Temperature Sensor using IoT Development Board.
 ![Screenshot from 2025-01-17 11-52-28](https://github.com/user-attachments/assets/615c7b5d-5644-4f75-83c9-d334d3305082)<br/> 
 ## Practical 03 - UltraSonic Sensor with LED indicator
-![image](https://github.com/user-attachments/assets/d8d336fd-63fd-417d-a3b5-aa45ce0100ea)<br/>
+![image](https://github.com/user-attachments/assets/614b6d6c-bf8a-4034-a217-5e84601c85de)<br/>
 ## Practical 04 - IoT based Stepper Motor/DC Motor Control.
 ![Screenshot from 2025-01-17 12-19-26](https://github.com/user-attachments/assets/60652418-47a2-4f45-a0e5-3adbb7bbc364)<br/> 
 ## Practical 05 - Programming to detect light intensity using LDR sensor using IoT Development Board.
