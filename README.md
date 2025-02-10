@@ -9,6 +9,10 @@
 ![Screenshot from 2025-01-17 12-19-26](https://github.com/user-attachments/assets/60652418-47a2-4f45-a0e5-3adbb7bbc364)<br/> 
 ## Practical 05 - Programming to detect light intensity using LDR sensor using IoT Development Board.
 ![image](https://github.com/user-attachments/assets/568111ce-2fcd-43dd-8ee5-4504d4d28bc7)<br/> 
+## Practical 06 - Interfacing switches to Arduino Uno Board.
+![image](https://github.com/user-attachments/assets/ab6adeff-1820-4600-b511-68192ee7485c) ![image](https://github.com/user-attachments/assets/d8cdb809-e4d8-4efe-b65c-9cc3a777cba2)
+<br/> 
+<br/> 
 <br/> 
 <br/> 
 <br/> 
