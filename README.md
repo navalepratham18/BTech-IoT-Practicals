@@ -11,7 +11,9 @@
 ![image](https://github.com/user-attachments/assets/568111ce-2fcd-43dd-8ee5-4504d4d28bc7)<br/> 
 ## Practical 06 - Interfacing switches to Arduino Uno Board.
 ![image](https://github.com/user-attachments/assets/80440674-8360-4719-97d6-8a292ebf9604)<br/> ![image](https://github.com/user-attachments/assets/45a72ad7-d24a-4d8b-b9de-fc47def84f51)<br/> ![image](https://github.com/user-attachments/assets/0e492316-dfbe-4b74-bf2b-72b330ec7660)<br/> ![image](https://github.com/user-attachments/assets/53ddd452-8278-471f-926b-f10b2aa60b9a)<br/>
-![image](https://github.com/user-attachments/assets/b87a20b8-603a-4dd9-b65d-1488de887bd4)
+![image](https://github.com/user-attachments/assets/b87a20b8-603a-4dd9-b65d-1488de887bd4)<br/>
+![image](https://github.com/user-attachments/assets/64299611-98f2-4f36-a163-d4061e4a08e8)
+
 
 
 
