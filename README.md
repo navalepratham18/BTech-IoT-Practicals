@@ -23,7 +23,7 @@
 
 ## Practical 07 - Interfacing Relay, Buzzer and LEDs Arduino Uno Board.
 ![image](https://github.com/user-attachments/assets/faf35241-4b36-40b1-b94e-20952da27ee8)<br/>
-![image](https://github.com/user-attachments/assets/1f2d5b58-227f-4a93-b614-257641b6a17f)<br/>
+![image](https://github.com/user-attachments/assets/e2c68bf9-a929-4aab-ae54-3deba9e94621)<br/>
 
 
 
