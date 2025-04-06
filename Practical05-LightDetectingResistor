@@ -1,0 +1,21 @@
+const int LEDpin = 9;  
+const int photoPIN = A0;  
+    
+void setup() {  
+  Serial.begin(9600);  
+  pinMode(photoPIN, INPUT);  
+  pinMode(LEDpin, OUTPUT);  
+}  
+void loop() {  
+  int sensorStatus = analogRead(photoPIN) 
+  if (sensorStatus <200)  
+  {  
+    digitalWrite(LEDpin, HIGH); // LED is ON  
+    Serial.println(" LED is ON, status of sensor is DARK");  
+  }  
+  else  
+  {  
+    digitalWrite(LEDpin, LOW);  
+    Serial.println("LED is OFF, status of sensor is LIGHT");  
+  }  
+}  
